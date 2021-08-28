@@ -1,0 +1,4 @@
+.header__lang-link_line {
+  pointer-events: none;
+  border-bottom: 2px solid;
+}
